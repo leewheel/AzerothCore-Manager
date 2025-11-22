@@ -1,0 +1,5 @@
+{
+  "name": "AzerothCore Manager Web",
+  "description": "A modern, React-based web interface for managing an AzerothCore-WotLK server. This dashboard simulates the management of AuthServer, WorldServer, and MySQL processes, providing real-time status monitoring, resource tracking, and an SRP6-compliant account registration tool.",
+  "requestFramePermissions": []
+}
